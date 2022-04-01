@@ -1,0 +1,104 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "sectionTitle": "Demo Section",
+            "label": "Best Seller",
+            "image": "https://images.pexels.com/photos/2798288/pexels-photo-2798288.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "title": "Product 1",
+            "oldPrice": 450.99,
+            "newPrice": 400.25,
+            "category": "Yamaha"
+        },
+        {
+            "id": "2",
+            "sectionTitle": "Demo Section",
+            "label": "On Sale",
+            "image": "https://images.pexels.com/photos/2393818/pexels-photo-2393818.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "title": "Product 2",
+            "oldPrice": 550.99,
+            "newPrice": 450.25,
+            "category": "SUZUKI"
+        },
+        {
+            "id": "3",
+            "sectionTitle": "Demo Section",
+            "label": "Latest Collection",
+            "image": "https://images.pexels.com/photos/1715191/pexels-photo-1715191.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "title": "Product 3",
+            "oldPrice": 650.99,
+            "newPrice": 500.25,
+            "category": "Hero Honda"
+        },
+        {
+            "id": "4",
+            "sectionTitle": "Demo Section",
+            "label": "Buy One Get One",
+            "image": "https://images.pexels.com/photos/2396050/pexels-photo-2396050.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "title": "Product 4",
+            "oldPrice": 750.99,
+            "newPrice": 490.25,
+            "category": "CBR"
+        },
+        {
+            "id": "5",
+            "sectionTitle": "Demo Section",
+            "label": "On Sale",
+            "image": "https://images.pexels.com/photos/4279653/pexels-photo-4279653.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "title": "Product 5",
+            "oldPrice": 1050.99,
+            "newPrice": 550.25,
+            "category": "Apache"
+        },
+        {
+            "id": "6",
+            "sectionTitle": "Demo Section",
+            "label": "15% off",
+            "image": "https://images.pexels.com/photos/8194537/pexels-photo-8194537.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "title": "Product 6",
+            "oldPrice": 1450.99,
+            "newPrice": 890.25,
+            "category": "VodVodi"
+        },
+        {
+            "id": "7",
+            "sectionTitle": "Demo Section",
+            "lebel": "On Sale",
+            "image": "https://images.pexels.com/photos/2393816/pexels-photo-2393816.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "title": "Product 7",
+            "oldPrice": 1450.99,
+            "newPrice": 890.25,
+            "category": "New Bike"
+        },
+        {
+            "id": "8",
+            "sectionTitle": "Demo Section",
+            "label": "15% off",
+            "image": "https://images.pexels.com/photos/2116475/pexels-photo-2116475.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "title": "Product 8",
+            "oldPrice": 1450.99,
+            "newPrice": 890.25,
+            "category": "VodVodi"
+        },
+        {
+         "id":"9",
+         "sectionTitle": "Demo Section",
+         "label": "15% off",
+         "image": "https://images.pexels.com/photos/40904/bmw-k-1300-metallic-motorcycle-40904.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+         "title": "Product 9",
+         "oldPrice": 1450.99,
+         "newPrice": 890.25,
+         "category": "VodVodi"
+        },
+        {
+            "id": "2",
+            "sectionTitle": "Demo Section",
+            "label": "On Sale",
+            "image": "https://images.pexels.com/photos/2393818/pexels-photo-2393818.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "title": "Product 2",
+            "oldPrice": 550.99,
+            "newPrice": 450.25,
+            "category": "SUZUKI"
+        }
+    ]
+}
